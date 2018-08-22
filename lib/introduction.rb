@@ -1,4 +1,4 @@
-def instructions(name)
+def instroduction(name)
   
   
 end
