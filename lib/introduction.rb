@@ -1,4 +1,4 @@
-def instroduction(name)
+def introduction(name)
   
   
 end
